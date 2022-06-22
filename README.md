@@ -1,1 +1,3 @@
-# spring-boot-template-with-Angular
+./mvnw generate-resources
+./npm install
+./ng build --watch
